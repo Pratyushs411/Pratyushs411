@@ -7,13 +7,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/pratyushs411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/pratyushs411" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/pratyush-sharma-121a79254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pratyush-sharma-121a79254" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/pratyushs411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/pratyushs411" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/pratyush_s411/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pratyush_s411/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/pratyush411" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/pratyush411" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/pratyushksk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pratyushksk/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/pratyuujk8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/pratyuujk8" height="30" width="40" /></a>
+<a href="https://twitter.com/pratyushs411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratyushs411" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pratyush-sharma-121a79254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratyush-sharma-121a79254" height="30" width="40" /></a>
+<a href="https://kaggle.com/pratyushs411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pratyushs411" height="30" width="40" /></a>
+<a href="https://instagram.com/pratyush_s411/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratyush_s411/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/pratyush411" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pratyush411" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pratyushksk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pratyushksk" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/pratyuujk8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pratyuujk8" height="30" width="40" /></a>
 <a href="https://discord.gg/#7501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7501" height="30" width="40" /></a>
 </p>
 
@@ -25,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyushs411&show_icons=true&locale=en" alt="pratyushs411" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyushs411&" alt="pratyushs411" /></p>
+
