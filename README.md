@@ -13,8 +13,6 @@
 <a href="https://linkedin.com/in/pratyush-sharma-121a79254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratyush-sharma-121a79254" height="30" width="40" /></a>
 <a href="https://kaggle.com/pratyushs411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pratyushs411" height="30" width="40" /></a>
 <a href="https://instagram.com/pratyush_s411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratyush_s411" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pratyush411" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pratyush411" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pratyush4competative" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pratyush4competative" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pratyuujk8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pratyuujk8" height="30" width="40" /></a>
 </p>
 
