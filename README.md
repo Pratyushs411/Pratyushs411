@@ -14,6 +14,7 @@
 <a href="https://kaggle.com/pratyushs411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pratyushs411" height="30" width="40" /></a>
 <a href="https://instagram.com/pratyush_s411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratyush_s411" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pratyuujk8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pratyuujk8" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/pratyush411" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pratyush411" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
