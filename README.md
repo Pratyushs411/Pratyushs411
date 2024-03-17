@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&height=100&lines=Hey!+This+is+Pratyusht+Sharma;I+am+Computer+Science+Undergraduate;I+am+a+Programmer!;I+am+a+Developer!;Eat!+Sleep!+Code!+Repeat!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&height=100&lines=Hey!+This+is+Pratyush+Sharma;I+am+Computer+Science+Undergraduate;I+am+a+Programmer!;I+am+a+Developer!;Eat!+Sleep!+Code!+Repeat!)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyushs411&label=Profile%20views&color=0e75b6&style=flat" alt="pratyushs411" /> </p>
 
 - 🌱 I’m currently learning **react.js,node.js,openCV**
