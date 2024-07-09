@@ -25,4 +25,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pratyushs411&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[![Pratyush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratyushs411&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Pratyush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratyushs411&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
