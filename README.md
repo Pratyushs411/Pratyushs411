@@ -1,4 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&height=100&lines=Hey!+This+is+Pratyush+Sharma+👋;I+am+Computer+Science+Undergraduate+💻;I+am+a+Programmer!;I+am+a+Developer!;Eat!+Sleep!+Code!+Repeat!)](https://git.io/typing-svg)
+<h1 align="center"> Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Pratyush Sharma </h1>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?&color=2484FF&size=32&lines=Computer+Engineering+student💻;Innovative+Thinker⭐;Lover+Of+Coding+Problems🎯;Constantly+Learning⚡;&font=Pacifico&center=true&height=50&width=600&vCenter=true)](https://github.com/Pratyushs411)
+
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyushs411&label=Profile%20views&color=0e75b6&style=flat" alt="pratyushs411" /> </p>
 
 # 💫 About Me:
@@ -22,7 +29,17 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pratyushs411&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyushs411&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pratyushs411&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+# 📈 Activity Graph
 [![Pratyush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pratyushs411&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+# ✍️ Random Dev Quote
+<div align="center">
+
+#### Oh, and I really love wise quotes that make you think. So I'm leaving a random quote here)
+
+![](https://quotes-github-readme.vercel.app/api?theme=algolia&type=horizontal)
+
+</div>
