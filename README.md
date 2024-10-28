@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyushs411&label=Profile%20views&color=0e75b6&style=flat" alt="pratyushs411" /> </p>
 
-# 💫 About Me:
+#   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="45">&nbsp; About Me:
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" min-width="200px" max-width="200px" height = "210px" width="250px" align="right"> 
 💻 Computer Engineering Student at Thapar Institute of Engineering and Tecnology<br>
 👨‍💻 Competative Programmer<br>
