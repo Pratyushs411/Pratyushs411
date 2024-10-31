@@ -13,7 +13,7 @@
 💻 Computer Engineering Student at Thapar Institute of Engineering and Tecnology<br>
 👨‍💻 Competative Programmer<br>
 🌐 Web developer<br>
-🌱 I’m currently learning Flutter an Next.js<br>
+🌱 I’m currently learning Flutter and Next.js<br>
 🤝 Open to collaborations with passionate developers, startups, and open-source communities.<br>
 📫 How to reach me pratyushksk@gmail.com
 
