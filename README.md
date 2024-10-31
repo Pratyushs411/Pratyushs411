@@ -33,8 +33,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratyushs411&theme=dark&hide_border=true" /><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyushs411&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
-
-# 🏆 GitHub Trophies
+<h1><img src="https://raw.githubusercontent.com/Pratyushs411/Pratyushs411/main/trophy.gif" width="40" height="40"/> GitHub Trophies</h1>
 <img src="https://github-profile-trophy.vercel.app/?username=Pratyushs411">
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="40" height="40"/> Activity Graph
