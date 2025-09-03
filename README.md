@@ -28,9 +28,9 @@
 <h1><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> GitHub Stats:</h1>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pratyushs411&theme=dark&hide_border=true&include_all_commits=true&count_private=false" /><br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Pratyushs411&theme=dark&hide_border=true&include_all_commits=true&count_private=true" /><br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratyushs411&theme=dark&hide_border=true" /><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyushs411&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyushs411&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
 </div>
 <h1><img src="https://raw.githubusercontent.com/Pratyushs411/Pratyushs411/main/trophy.gif" width="40" height="40"/> GitHub Trophies</h1>
 <img src="https://github-profile-trophy.vercel.app/?username=Pratyushs411">
