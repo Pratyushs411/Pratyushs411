@@ -30,7 +30,7 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Pratyushs411&theme=dark&hide_border=true&include_all_commits=true&count_private=true" /><br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratyushs411&theme=dark&hide_border=true" /><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyushs411&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pratyushs411&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
 <h1><img src="https://raw.githubusercontent.com/Pratyushs411/Pratyushs411/main/trophy.gif" width="40" height="40"/> GitHub Trophies</h1>
 <img src="https://github-profile-trophy.vercel.app/?username=Pratyushs411">
