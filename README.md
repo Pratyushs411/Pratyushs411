@@ -5,9 +5,7 @@
 #   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="45">&nbsp; About Me:
 💻 Computer Engineering Student at Thapar Institute of Engineering and Tecnology<br>
 👨‍💻 Competative Programmer<br>
-🌐 Web developer<br>
 🌱 I’m currently learning Go<br>
-🤝 Open to collaborations with passionate developers, startups, and open-source communities.<br>
 📫 How to reach me pratyushksk@gmail.com
 
 #  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="38"> Socials:
