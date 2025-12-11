@@ -20,8 +20,8 @@
 
 <div align="center">
     <img width="80%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratyushs411&theme=github_dark" /><br/>
-    <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pratyushs411&theme=github_dark&exclude=jupyter%20Notebook" />
-    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pratyushs411&theme=github_dark" alt="Pratyushs411" /></p>
+    <p align="center"><img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pratyushs411&theme=github_dark&exclude=jupyter%20Notebook" />
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pratyushs411&theme=github_dark" alt="Pratyushs411" /></p><br/>
 </div>
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="40" height="40"/> Activity Graph
