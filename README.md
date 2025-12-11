@@ -19,9 +19,9 @@
 <h1><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> GitHub Stats:</h1>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pratyushs411&theme=dark&hide_border=true&include_all_commits=true&count_private=true" /><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratyushs411&theme=dark&hide_border=true" /><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pratyushs411&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="180" alt="languages graph"  />
+    <img width="80%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pratyushs411&theme=github_dark" /><br/>
+    <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pratyushs411&theme=github_dark&exclude=jupyter%20Notebook" />
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pratyushs411&theme=github_dark" alt="Pratyushs411" /></p>
 </div>
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="40" height="40"/> Activity Graph
